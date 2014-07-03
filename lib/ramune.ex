@@ -1,0 +1,2 @@
+defmodule Ramune do
+end
